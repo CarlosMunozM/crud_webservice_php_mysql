@@ -1,4 +1,5 @@
 # CRUD usando Web Service RESTful, PHP y MySQL
+En este proyecto se realiza un CRUD con una tabla dinámica utilizando un Web Service RESTful y procedimientos almacenados en el DBMS MySQL.
 
 ## Requerimientos 📋
 - Servidor web Apache 2.4.48 o superior
