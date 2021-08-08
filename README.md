@@ -12,9 +12,9 @@
 
 ## Librerías usadas 💻
 - Bootstrap v5.0.2
-- DataTables Bootstrap 5
+- DataTables Bootstrap v5
 - jQuery v3.6.0
-- alertify 1.13.1
+- alertify v1.13.1
 
 ## Autor ✒️
 * **Carlos Muñoz** - [CarlosMunozM](https://github.com/CarlosMunozM)
